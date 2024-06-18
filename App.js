@@ -1,5 +1,5 @@
 import { Text, SafeAreaView, StyleSheet,View,ScrollView } from 'react-native';
-import Login from './Login'
+import Login from './components/Login'
 import Home from './home'
 import {NavigationContainer} from '@react-navigation/native'
 import {createStackNavigator} from'@react-navigation/stack'
