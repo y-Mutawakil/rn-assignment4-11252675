@@ -20,6 +20,6 @@ This file contains the logic and UI components for a search functionality within
 This file is responsible for displaying featured job listings. It may include code to highlight certain jobs based on specific criteria like sponsorship or relevance. The file would typically fetch featured job data and present it prominently on the page, possibly with special styling to differentiate them from regular listings.
 
 
-![](./screenshot.1.png)
-![](./screenshot2.png)
+![](./screenshot.1.jpg)
+![](./screenshot2.jpg)
 
